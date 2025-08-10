@@ -1,0 +1,13 @@
+flask
+python-dotenv
+transformers[torch] >= 4.38
+torch >= 2.1
+accelerate >= 0.27
+bitsandbytes
+shap >= 0.42
+trl >= 0.8
+peft >= 0.9
+datasets >= 2.14
+requests >= 2.28
+sentence-transformers
+faiss-cpu
